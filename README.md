@@ -19,10 +19,10 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
-...This project is simple preview card with few interactive states..
-    How the project was to be built is specified under the challenge sub-section..
-    A screenshot of both challenge requirement and solution i built will be provided in the screenshot sub-section..
-    Links to solutions are also available under the links sub-section.
+This project is simple preview card with few interactive states.
+How the project was to be built is specified under the challenge sub-section.
+A screenshot of both challenge requirement and solution i built will be provided in the screenshot sub-section.
+Links to solutions are also available under the links sub-section.
 
 ### The challenge
 
@@ -61,7 +61,7 @@ Users should be able to:
 [Resource](https://developer.mozilla.org/en-US/docs/Web/CSS/vertical-align#vertical_alignment_in_a_line_box)
 
 ###
-...Makng it responsive at all screen levels
+Makng it responsive at all screen levels
 ### Useful resources
 
 - [For HTML Sematics](https://hackernoon.com/how-to-write-semantic-html-dkq3ulo) - This helped me realize the importance of semantics in html.
