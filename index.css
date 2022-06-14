@@ -59,6 +59,9 @@ article p {
 }
 
 #author img {
+    border-color: hsl(0, 0%, 100%);
+    border-width: 2px;
+    border-style: solid;
     display: inline-block;
     vertical-align: middle;
     width: 10%;
