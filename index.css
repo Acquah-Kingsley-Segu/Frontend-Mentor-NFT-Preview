@@ -1,0 +1,85 @@
+body {
+    background-color: hsl(217, 54%, 11%);
+    font-family: 'Outfit', sans-serif;
+}
+
+div {
+    background-color: hsl(216, 50%, 16%);
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    width: 24%;
+}
+
+#image-equilibrium {
+    border-radius: 10px;
+    margin-left: 15px;
+    margin-top: 10px;
+    width: 90%;
+}
+
+.main-text {
+    margin-left: 15px;
+    margin-top: 0px;
+}
+
+h1 {
+    color: hsl(0, 0%, 100%);
+    font-size: 20px;
+}
+
+p {
+    color: hsl(215, 51%, 70%);
+    font-size: 15px;
+}
+
+article {
+    display: inline-block;
+    width: 40%;
+}
+
+#first-article {
+    margin-right: 40px;
+}
+
+#first-article p {
+    color: hsl(178, 100%, 50%);
+}
+#second-article {
+    padding-left: 12px;
+}
+
+article img {
+    vertical-align: text-bottom;
+}
+
+article p {
+    display: inline-block;
+}
+
+#author img {
+    display: inline-block;
+    vertical-align: middle;
+    width: 10%;
+    border-radius: 50px;
+}
+
+#author p {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+#author-name {
+    color: hsl(0, 0%, 100%);
+    margin-left: 5px;
+}
+
+/* Active states */
+h1:hover, #author-name:hover{
+    color: hsl(178, 100%, 50%);
+}
+
+/*#first-section div{
+    background-color: hsl(178, 100%, 50%);
+}
