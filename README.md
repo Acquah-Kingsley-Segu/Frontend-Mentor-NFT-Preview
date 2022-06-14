@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/Acquah-Kingsley-Segu/Frontend-Mentor-NFT-Preview)
+- Live Site URL: [Live Site](https://acquah-kingsley-segu.github.io/Frontend-Mentor-NFT-Preview/)
 
 ## My process
 
@@ -69,7 +69,5 @@ Makng it responsive at all screen levels
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@Acquah-Kingsley-Segu](https://www.frontendmentor.io/profile/Acquah-Kingsley-Segu)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
